@@ -196,9 +196,11 @@ Engage in a dialogue with the user (via chat or voice) to iteratively refine and
 
 ## Recommendation Editing
 
-Allows post‑processing adjustments to recommendation lists (e.g., removing unsuitable items) without retraining the whole model.
+Allows post‑processing adjustments to recommendation lists (e.g., removing unsuitable items) without retraining the whole model. Also known as **Critiquing-based** recommender.
 
-Example: [Better Late Than Never: Formulating and Benchmarking Recommendation Editing](https://arxiv.org/pdf/2406.04553)
+Example: 
+- [Better Late Than Never: Formulating and Benchmarking Recommendation Editing](https://arxiv.org/pdf/2406.04553)
+- [Critiquing-based recommenders: survey and emerging trends](https://link.springer.com/article/10.1007/s11257-011-9108-6)
 
 
 
