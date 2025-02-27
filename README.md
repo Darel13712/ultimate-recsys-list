@@ -64,6 +64,7 @@ Ultimate list of various problem formulations and subtasks in recommender system
     -  [Automatic Playlist Continuation](#automatic-playlist-continuation)
   - [Music Events](#music-events)
   - [Multimedia](#multimedia)
+  - [News](#news)
 
 
 ## Top-k Recommendations
@@ -389,3 +390,4 @@ Example: [Quantum Recommendation Systems](https://arxiv.org/abs/1603.08675)
   - Automatic Playlist Continuation
 - Music events
 - Multimedia
+- News (Overview: [Where Are the Values? A Systematic Literature Review on News Recommender Systems](https://dl.acm.org/doi/10.1145/3654805))
